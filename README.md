@@ -17,7 +17,7 @@ Audits all agent sessions — token consumption, tool call accuracy, errors, ses
 Clone into your OpenClaw skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/oc-audit.git ~/.openclaw/skills/oc-audit
+git clone https://github.com/zhupeixu/oc-audit.git ~/.openclaw/skills/oc-audit
 ```
 
 ## Setup
